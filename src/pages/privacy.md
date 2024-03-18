@@ -1,64 +1,65 @@
 ---
 layout: "../layouts/Docs.astro"
-title: "Política de privacidad"
+title: "Chính sách bảo mật"
 ---
-**Política de privacidad**
+# RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED Chính sách Quyền riêng tư
 
-Calista Education And Culture, Inc desarrolló la aplicación *Prestamos En Linea* como una aplicación gratuita. Este SERVICIO es proporcionado por Calista Education And Culture, Inc de forma gratuita y está destinado a ser utilizado tal cual.
+RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED đã xây dựng ứng dụng Vay Tiền Online Nhanh dưới dạng ứng dụng Miễn phí. DỊCH VỤ này được RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED cung cấp miễn phí và được thiết kế để sử dụng.
 
-Esta página se utiliza para informar a los visitantes sobre nuestras políticas con respecto a la recopilación, uso y divulgación de información personal si alguien decide utilizar nuestro Servicio.
+Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của chúng tôi về việc thu thập, sử dụng và tiết lộ Thông tin cá nhân nếu có ai quyết định sử dụng Dịch vụ của chúng tôi.
 
-Si decides utilizar nuestro Servicio, aceptas la recopilación y uso de información en relación con esta política. La información personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos tu información con nadie, excepto según se describe en esta Política de privacidad.
+Nếu bạn chọn sử dụng Dịch vụ của chúng tôi thì bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này. Thông tin cá nhân mà chúng tôi thu thập được sử dụng để cung cấp và cải thiện Dịch vụ. Chúng tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai ngoại trừ những trường hợp được mô tả trong Chính sách quyền riêng tư này.
 
-Los términos utilizados en esta Política de privacidad tienen los mismos significados que en nuestros *Términos y condiciones*, que están accesibles en [Prestamos En Linea](enlace) a menos que se defina de otra manera en esta Política de privacidad.
+Các điều khoản được sử dụng trong Chính sách quyền riêng tư này có cùng ý nghĩa như trong Điều khoản và Điều kiện của chúng tôi, có thể truy cập được tại Vay Tiền Online Nhanh trừ khi được quy định khác trong Chính sách quyền riêng tư này.
 
-**Recopilación y uso de información**
+## Thu thập và sử dụng thông tin
 
-Para tener una mejor experiencia mientras usas nuestro Servicio, podemos solicitarte que nos proporciones cierta información personal identificable. La información que solicitamos será retenida por nosotros y se utilizará según se describe en esta política de privacidad.
+Để có trải nghiệm tốt hơn, khi sử dụng Dịch vụ của chúng tôi, chúng tôi có thể yêu cầu bạn cung cấp cho chúng tôi thông tin nhận dạng cá nhân nhất định. Thông tin mà chúng tôi yêu cầu sẽ được chúng tôi lưu giữ và sử dụng như được mô tả trong chính sách bảo mật này.
 
-La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarte.
+Ứng dụng sử dụng các dịch vụ của bên thứ ba có thể thu thập thông tin dùng để nhận dạng bạn.
 
-*Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación:*
-- [One Signal](enlace)
+Liên kết đến chính sách quyền riêng tư của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng:
+- Dịch vụ của Google Play
+- One Signal
 
-**Datos de registro**
+## Dữ liệu nhật ký
 
-Queremos informarte que cada vez que utilizas nuestro Servicio y en caso de un error en la aplicación, recopilamos datos e información (a través de productos de terceros) en tu teléfono llamados Datos de registro. Estos Datos de registro pueden incluir información como la dirección de Protocolo de Internet ("IP") de tu dispositivo, nombre del dispositivo, versión del sistema operativo, la configuración de la aplicación al utilizar nuestro Servicio, la fecha y hora de tu uso del Servicio y otras estadísticas.
+Chúng tôi muốn thông báo cho bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của chúng tôi, trong trường hợp xảy ra lỗi trong ứng dụng, chúng tôi sẽ thu thập dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại của bạn có tên là Dữ liệu nhật ký. Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (“IP”) của thiết bị, tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng Dịch vụ của chúng tôi, ngày và giờ bạn sử dụng Dịch vụ và các số liệu thống kê khác.
 
-**Cookies**
+## Bánh quy
 
-Las cookies son archivos con una pequeña cantidad de datos que comúnmente se utilizan como identificadores únicos anónimos. Estos se envían a tu navegador desde los sitios web que visitas y se almacenan en la memoria interna de tu dispositivo.
+Cookie là các tệp có một lượng nhỏ dữ liệu thường được sử dụng làm mã định danh duy nhất ẩn danh. Chúng được gửi tới trình duyệt của bạn từ các trang web bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị.
 
-Este Servicio no utiliza explícitamente estas "cookies". Sin embargo, la aplicación puede utilizar código y bibliotecas de terceros que utilizan "cookies" para recopilar información y mejorar sus servicios. Tienes la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a tu dispositivo. Si eliges rechazar nuestras cookies, es posible que no puedas utilizar algunas partes de este Servicio.
+Dịch vụ này không sử dụng các “cookie” này một cách rõ ràng. Tuy nhiên, ứng dụng có thể sử dụng mã và thư viện của bên thứ ba sử dụng “cookie” để thu thập thông tin và cải thiện dịch vụ của họ. Bạn có tùy chọn chấp nhận hoặc từ chối các cookie này và biết khi nào cookie được gửi đến thiết bị của bạn. Nếu bạn chọn từ chối cookie của chúng tôi, bạn có thể không sử dụng được một số phần của Dịch vụ này.
 
-**Proveedores de servicios**
+## Các nhà cung cấp dịch vụ
 
-Podemos emplear compañías e individuos de terceros por las siguientes razones:
-- Facilitar nuestro Servicio;
-- Proporcionar el Servicio en nuestro nombre;
-- Realizar servicios relacionados con el Servicio; o
-- Ayudarnos a analizar cómo se utiliza nuestro Servicio.
+Chúng tôi có thể tuyển dụng các công ty và cá nhân bên thứ ba vì những lý do sau:
+- Để tạo điều kiện thuận lợi cho Dịch vụ của chúng tôi;
+- Để cung cấp Dịch vụ thay mặt chúng tôi;
+- Để thực hiện các dịch vụ liên quan đến Dịch vụ; hoặc
+- Để hỗ trợ chúng tôi phân tích cách Dịch vụ của chúng tôi được sử dụng.
 
-Queremos informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información personal. La razón es realizar las tareas asignadas en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro propósito.
+Chúng tôi muốn thông báo cho người dùng Dịch vụ này rằng các bên thứ ba này có quyền truy cập vào Thông tin cá nhân của họ. Lý do là để thay mặt chúng tôi thực hiện nhiệm vụ được giao. Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.
 
-**Seguridad**
+## Bảo vệ
 
-Valoramos tu confianza al proporcionarnos tu Información personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión a través de Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.
+Chúng tôi đánh giá cao sự tin tưởng của bạn trong việc cung cấp cho chúng tôi Thông tin cá nhân của bạn, do đó chúng tôi đang cố gắng sử dụng các phương tiện được chấp nhận về mặt thương mại để bảo vệ thông tin đó. Nhưng hãy nhớ rằng không có phương thức truyền qua internet hoặc phương pháp lưu trữ điện tử nào an toàn và đáng tin cậy 100% và chúng tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.
 
-**Enlaces a otros sitios**
+## Liên kết đến các trang web khác
 
-Este Servicio puede contener enlaces a otros sitios. Si haces clic en un enlace de un tercero, serás dirigido a ese sitio. Ten en cuenta que estos sitios externos no son operados por nosotros. Por lo tanto, te recomendamos que revises la Política de privacidad de estos sitios web. No tenemos control y no asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros.
+Dịch vụ này có thể chứa các liên kết đến các trang web khác. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được dẫn đến trang web đó. Lưu ý rằng các trang web bên ngoài này không do chúng tôi điều hành. Do đó, chúng tôi thực sự khuyên bạn nên xem lại Chính sách quyền riêng tư của các trang web này. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc thông lệ của bất kỳ trang web hoặc dịch vụ bên thứ ba nào.
 
-**Privacidad de los niños**
+## Quyền riêng tư của trẻ em
 
-Estos Servicios no están dirigidos a personas menores de 13 años. No recopilamos conscientemente información personal identificable de niños menores de 13 años. En caso de que descubramos que un niño menor de 13 años nos ha proporcionado información personal, la eliminamos inmediatamente de nuestros servidores. Si eres padre/madre o tutor y sabes que tu hijo nos ha proporcionado información personal, contáctanos para que podamos tomar las acciones necesarias.
+Các Dịch vụ này không đề cập đến bất kỳ ai dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin nhận dạng cá nhân từ trẻ em dưới 13 tuổi. Trong trường hợp chúng tôi phát hiện ra rằng một đứa trẻ dưới 13 tuổi đã cung cấp thông tin cá nhân cho chúng tôi, chúng tôi sẽ xóa ngay thông tin này khỏi máy chủ của mình. Nếu bạn là cha mẹ hoặc người giám hộ và bạn biết rằng con bạn đã cung cấp thông tin cá nhân cho chúng tôi, vui lòng liên hệ với chúng tôi để chúng tôi có thể thực hiện các hành động cần thiết.
 
-**Cambios en esta Política de privacidad**
+## Những thay đổi đối với Chính sách quyền riêng tư này
 
-Podemos actualizar nuestra Política de privacidad de vez en cuando. Por lo tanto, se te aconseja que revises esta página periódicamente para ver si hay cambios. Te notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página.
+Thỉnh thoảng chúng tôi có thể cập nhật Chính sách quyền riêng tư của mình. Vì vậy, bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách quyền riêng tư mới trên trang này.
 
-Esta política es efectiva a partir del 2024-03-02
+Chính sách này có hiệu lực kể từ ngày 2025-03-01
 
-**Contáctanos**
+## Liên hệ chúng tôi
 
-Si tienes alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dudes en contactarnos en support@prestaenlin.com.
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách quyền riêng tư của chúng tôi, đừng ngần ngại liên hệ với chúng tôi theo địa chỉ support@vaytiennha.com.

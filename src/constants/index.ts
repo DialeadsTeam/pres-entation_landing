@@ -1,15 +1,15 @@
 const _DEFAULT = {
-  name: "PRÉSTAMOS EN LÍNEA",
-  expandedName: "PRÉSTAMOS EN LÍNEA",
-  homePageLinkTitle: "Home",
+  name: "VAY TIỀN",
+  expandedName: "VAY TIỀN ONLINE NHANH",
+  homePageLinkTitle: "Trang chủ",
 
   hero: {
-    descriptionLineOne: "COMPLETA LA\nAPLICACIÓN EN LÍNEA",
-    descriptionLineTwo: "APROBACIÓN\nINSTANTÁNEA DE PRÉSTAMO"
+    descriptionLineOne: "TÍ LỆ DUYỆT VAY CAO\NHẬN TIÊN NHANH TRONG VONG 5 PHÚT",
+    descriptionLineTwo: "VAY TIEN KHÔNG BI TỪ CHỐI"
   },
 
   footer: {
-    description: "FÁCIL, RÁPIDO Y SEGURO"
+    description: "VAY TIEN KHÔNG BI TỪ CHỐI"
   }
 }
 

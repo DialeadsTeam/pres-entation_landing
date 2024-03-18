@@ -1,37 +1,45 @@
 ---
 layout: "../layouts/Docs.astro"
-title: "Términos y Condiciones"
+title: "Điều Khoản Cho Vay"
 ---
 
-**Términos y Condiciones**
+# Điều Khoản Cho Vay
 
-Al descargar o utilizar la aplicación, estos términos se aplicarán automáticamente a usted; por lo tanto, asegúrese de leerlos detenidamente antes de usar la aplicación. No tiene permitido copiar o modificar la aplicación, ninguna parte de la aplicación, ni nuestras marcas comerciales de ninguna manera. No tiene permitido intentar extraer el código fuente de la aplicación, y tampoco debe intentar traducir la aplicación a otros idiomas ni crear versiones derivadas. La aplicación en sí, y todas las marcas comerciales, derechos de autor, derechos de base de datos y otros derechos de propiedad intelectual relacionados con ella, siguen perteneciendo a Calista Education And Culture, Inc.
+- Max. Tỷ lệ Phần trăm hàng năm (APR): 35,99%
+- Tối thiểu. Thời Gian Trả Nợ: 65 Ngày
+- Max. Thời Gian Trả Nợ: 3 Năm
+- Ngày đến hạn thanh toán: 90 ngày
 
-Calista Education And Culture, Inc se compromete a garantizar que la aplicación sea lo más útil y eficiente posible. Por esa razón, nos reservamos el derecho de realizar cambios en la aplicación o cobrar por sus servicios, en cualquier momento y por cualquier motivo. Nunca le cobraremos por la aplicación o sus servicios sin dejarle claro exactamente por qué está pagando.
+## Điều Khoản & Điều Kiện:
 
-La aplicación *Prestamos En Linea* almacena y procesa datos personales que nos ha proporcionado para brindar nuestro servicio. Es su responsabilidad mantener seguro su teléfono y el acceso a la aplicación. Por lo tanto, le recomendamos que no haga jailbreak o root a su teléfono, que es el proceso de eliminar restricciones y limitaciones de software impuestas por el sistema operativo oficial de su dispositivo. Esto podría hacer que su teléfono sea vulnerable a malware, virus y programas maliciosos, comprometer las características de seguridad de su teléfono y podría significar que la aplicación *Prestamos En Linea* no funcione correctamente o en absoluto.
+Bằng cách tải xuống hoặc sử dụng ứng dụng, các điều khoản này sẽ tự động áp dụng cho bạn – do đó, bạn nên đảm bảo rằng mình đã đọc kỹ trước khi sử dụng ứng dụng. Bạn không được phép sao chép hoặc sửa đổi ứng dụng, bất kỳ phần nào của ứng dụng hoặc nhãn hiệu của chúng tôi dưới bất kỳ hình thức nào. Bạn không được phép cố gắng trích xuất mã nguồn của ứng dụng và bạn cũng không nên cố gắng dịch ứng dụng sang các ngôn ngữ khác hoặc tạo các phiên bản phái sinh. Bản thân ứng dụng và tất cả các nhãn hiệu, bản quyền, quyền cơ sở dữ liệu và các quyền sở hữu trí tuệ khác liên quan đến ứng dụng vẫn thuộc về RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED.
 
-La aplicación utiliza servicios de terceros que declaran sus términos y condiciones.
+RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED cam kết đảm bảo rằng ứng dụng này hữu ích và hiệu quả nhất có thể. Vì lý do đó, chúng tôi có quyền thực hiện các thay đổi đối với ứng dụng hoặc tính phí dịch vụ của ứng dụng đó bất cứ lúc nào và vì bất kỳ lý do gì. Chúng tôi sẽ không bao giờ tính phí cho ứng dụng hoặc dịch vụ của ứng dụng đó mà không thông báo rõ ràng cho bạn biết chính xác bạn đang trả tiền cho cái gì.
 
-*Enlace a los términos y condiciones de proveedores de servicios de terceros utilizados por la aplicación:*
-- [One Signal](enlace)
+Ứng dụng Vay Tiền Online Nhanh lưu trữ và xử lý dữ liệu cá nhân mà bạn đã cung cấp cho chúng tôi để cung cấp Dịch vụ của chúng tôi. Bạn có trách nhiệm giữ an toàn cho điện thoại và quyền truy cập vào ứng dụng của mình. Do đó, chúng tôi khuyên bạn không nên bẻ khóa hoặc root điện thoại của mình, đây là quá trình loại bỏ các hạn chế và giới hạn phần mềm do hệ điều hành chính thức của thiết bị của bạn áp đặt. Nó có thể khiến điện thoại của bạn dễ bị phần mềm độc hại/vi-rút/chương trình độc hại tấn công, xâm phạm các tính năng bảo mật của điện thoại và điều đó có thể có nghĩa là ứng dụng Vay Tiền Online Nhanh sẽ không hoạt động bình thường hoặc hoàn toàn không hoạt động.
 
-Debe tener en cuenta que hay ciertas cosas de las que Calista Education And Culture, Inc no asumirá responsabilidad. Ciertas funciones de la aplicación requerirán que la aplicación tenga una conexión a Internet activa. La conexión puede ser Wi-Fi o proporcionada por su proveedor de red móvil, pero Calista Education And Culture, Inc no puede asumir responsabilidad si la aplicación no funciona a plena funcionalidad si no tiene acceso a Wi-Fi y no le queda ninguna asignación de datos.
+Ứng dụng sử dụng các dịch vụ của bên thứ ba để khai báo Điều khoản và Điều kiện của họ.
 
-Si está utilizando la aplicación fuera de un área con Wi-Fi, debe tener en cuenta que los términos del acuerdo con su proveedor de red móvil seguirán aplicándose. Como resultado, su proveedor de telefonía móvil puede cobrarle por el costo de datos durante la conexión mientras accede a la aplicación, o por otros cargos de terceros. Al utilizar la aplicación, acepta la responsabilidad de tales cargos, incluidos los cargos por datos de roaming si utiliza la aplicación fuera de su territorio de origen (es decir, región o país) sin desactivar el roaming de datos. Si no es el pagador de la factura del dispositivo en el que está utilizando la aplicación, tenga en cuenta que asumimos que ha recibido permiso del pagador de la factura para utilizar la aplicación.
+Liên kết đến Điều khoản và Điều kiện của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng:
+- Dịch vụ của Google Play
+- One Signal
 
-En la misma línea, Calista Education And Culture, Inc no siempre puede asumir la responsabilidad por la forma en que utiliza la aplicación, es decir, debe asegurarse de que su dispositivo esté cargado; si se queda sin batería y no puede encenderlo para acceder al servicio, Calista Education And Culture, Inc no puede aceptar responsabilidad.
+Bạn nên lưu ý rằng có một số việc nhất định mà RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED sẽ không chịu trách nhiệm. Một số chức năng nhất định của ứng dụng sẽ yêu cầu ứng dụng phải có kết nối internet đang hoạt động. Kết nối có thể là Wi-Fi hoặc do nhà cung cấp mạng di động của bạn cung cấp, nhưng RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không chịu trách nhiệm về việc ứng dụng không hoạt động với đầy đủ chức năng nếu bạn không có quyền truy cập Wi-Fi và bạn không có bất kỳ dữ liệu nào của mình trợ cấp còn lại.
 
-Con respecto a la responsabilidad de Calista Education And Culture, Inc por su uso de la aplicación, cuando esté utilizando la aplicación, es importante tener en cuenta que, aunque nos esforzamos por garantizar que esté actualizada y correcta en todo momento, dependemos de terceros para proporcionarnos información para que podamos ponerla a su disposición. Calista Education And Culture, Inc no acepta ninguna responsabilidad por cualquier pérdida, directa o indirecta, que pueda experimentar como resultado de depender completamente de esta funcionalidad de la aplicación.
+Nếu bạn đang sử dụng ứng dụng bên ngoài khu vực có Wi-Fi, bạn nên nhớ rằng các điều khoản trong thỏa thuận với nhà cung cấp mạng di động của bạn sẽ vẫn được áp dụng. Do đó, bạn có thể bị nhà cung cấp dịch vụ di động tính phí dữ liệu trong suốt thời gian kết nối khi truy cập ứng dụng hoặc các khoản phí khác của bên thứ ba. Khi sử dụng ứng dụng, bạn phải chịu trách nhiệm về mọi khoản phí như vậy, bao gồm cả phí chuyển vùng dữ liệu nếu bạn sử dụng ứng dụng bên ngoài lãnh thổ quê hương của mình (tức là khu vực hoặc quốc gia) mà không tắt chuyển vùng dữ liệu. Nếu bạn không phải là người thanh toán hóa đơn cho thiết bị mà bạn đang sử dụng ứng dụng, xin lưu ý rằng chúng tôi cho rằng bạn đã nhận được sự cho phép từ người thanh toán hóa đơn để sử dụng ứng dụng.
 
-En algún momento, es posible que deseemos actualizar la aplicación. La aplicación está actualmente disponible en iOS; los requisitos para el sistema (y para cualquier sistema adicional que decidamos extender la disponibilidad de la aplicación) pueden cambiar, y deberá descargar las actualizaciones si desea seguir utilizando la aplicación. Calista Education And Culture, Inc no promete que siempre actualizará la aplicación para que sea relevante para usted y/o funcione con la versión de iOS que tiene instalada en su dispositivo. Sin embargo, promete aceptar siempre las actualizaciones de la aplicación cuando se le ofrezcan. También podemos desear dejar de proporcionar la aplicación y podemos terminar su uso en cualquier momento sin previo aviso. A menos que le informemos lo contrario, en caso de terminación, (a) los derechos y licencias otorgados a usted en estos términos terminarán; (b) debe dejar de usar la aplicación y (si es necesario) eliminarla de su dispositivo.
+Tương tự như vậy, RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không phải lúc nào cũng chịu trách nhiệm về cách bạn sử dụng ứng dụng, tức là bạn cần đảm bảo rằng thiết bị của mình luôn được sạc - nếu thiết bị hết pin và bạn không thể bật thiết bị để sử dụng Dịch vụ, RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không thể chấp nhận trách nhiệm.
 
-**Cambios en estos términos y condiciones**
+Về trách nhiệm của RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED đối với việc bạn sử dụng ứng dụng, khi bạn sử dụng ứng dụng, điều quan trọng cần lưu ý là mặc dù chúng tôi nỗ lực đảm bảo rằng ứng dụng luôn được cập nhật và chính xác nhưng chúng tôi vẫn dựa vào bên thứ ba để cung cấp thông tin cho chúng tôi để chúng tôi có thể cung cấp thông tin đó cho bạn. RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không chịu trách nhiệm pháp lý đối với bất kỳ tổn thất nào, trực tiếp hay gián tiếp mà bạn gặp phải do phụ thuộc hoàn toàn vào chức năng này của ứng dụng.
 
-Podemos actualizar nuestros términos y condiciones de vez en cuando. Por lo tanto, se le aconseja que revise esta página periódicamente para ver si hay cambios. Le notificaremos cualquier cambio publicando los nuevos términos y condiciones en esta página.
+Tại một thời điểm nào đó, chúng tôi có thể muốn cập nhật ứng dụng. Ứng dụng hiện có sẵn trên iOS – các yêu cầu đối với hệ thống (và đối với bất kỳ hệ thống bổ sung nào mà chúng tôi quyết định mở rộng khả năng cung cấp ứng dụng) có thể thay đổi và bạn sẽ cần tải xuống các bản cập nhật nếu muốn tiếp tục sử dụng ứng dụng. RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không hứa rằng sẽ luôn cập nhật ứng dụng sao cho phù hợp với bạn và/hoặc hoạt động với phiên bản iOS mà bạn đã cài đặt trên thiết bị của mình. Tuy nhiên, bạn hứa sẽ luôn chấp nhận các bản cập nhật của ứng dụng khi được cung cấp cho bạn. Chúng tôi cũng có thể muốn ngừng cung cấp ứng dụng và có thể chấm dứt việc sử dụng ứng dụng đó bất kỳ lúc nào mà không cần thông báo chấm dứt cho bạn. Trừ khi chúng tôi thông báo khác cho bạn, sau khi chấm dứt, (a) các quyền và giấy phép được cấp cho bạn theo các điều khoản này sẽ chấm dứt; (b) bạn phải ngừng sử dụng ứng dụng và (nếu cần) xóa ứng dụng đó khỏi thiết bị của mình.
 
-Estos términos y condiciones son efectivos a partir del 2024-03-02
+## Thay đổi đối với Điều khoản và Điều kiện này
 
-**Contáctenos**
+Đôi khi, chúng tôi có thể cập nhật Điều khoản và Điều kiện của mình. Vì vậy, bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Điều khoản và Điều kiện mới trên trang này.
 
-Si tiene alguna pregunta o sugerencia sobre nuestros términos y condiciones, no dude en contactarnos en support@prestaenlin.com.
+Các điều khoản và điều kiện này có hiệu lực kể từ ngày 01-03-2025
+
+## Liên hệ chúng tôi
+
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Điều khoản và Điều kiện của chúng tôi, đừng ngần ngại liên hệ với chúng tôi theo địa chỉ support@vaytiennha.com.
