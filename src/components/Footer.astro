@@ -1,0 +1,27 @@
+---
+import { Image } from 'astro:assets';
+import _DEFAULT from '../constants';
+const posts = await Astro.glob("../pages/*.md")
+const menu = posts.map(_ => ({link: _.url, text: _.frontmatter.title}))
+---
+
+
+<footer class="p-4 bg-white md:p-8 lg:p-10 dark:bg-gray-800">
+  <div class="mx-auto max-w-screen-xl text-center">
+      <a href="#" class="flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white whitespace-pre-wrap">
+        <Image src="/logo_small.png" width="20" height="20" class="mr-3 h-6 sm:h-9 w-auto" alt="FAST CAR insurance Logo" />
+        {_DEFAULT.expandedName}
+      </a>
+      <p class="my-6 text-gray-500 dark:text-gray-400">{_DEFAULT.footer.description}</p>
+      <ul class="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
+          
+
+          {menu.map(_ => (
+                   <li>
+                    <a href={_.link} class="mr-4 hover:underline md:mr-6 capitalize ">{_.text}</a>
+                  </li>
+                ))}
+      </ul>
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="/" class="hover:underline whitespace-pre-wrap"> {_DEFAULT.expandedName}</a>. All Rights Reserved.</span>
+  </div>
+</footer>

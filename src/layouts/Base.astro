@@ -1,0 +1,63 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import _DEFAULT from "../constants/";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo_small.png" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{Astro.props.title || _DEFAULT.name}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+  </head>
+  <body>
+    <div>
+      <Header />
+      <slot />
+      <Footer />
+    </div>
+		<script is:inline
+    src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"
+  ></script>
+  <script is:inline src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"
+  ></script>
+  <script is:inline>
+    const progressCircle = document.querySelector(".autoplay-progress svg");
+    const progressContent = document.querySelector(".autoplay-progress span");
+		//@ts-ignore
+    const swiper = new Swiper(".swiper", {
+      // Optional parameters
+      direction: "horizontal",
+      loop: true,
+      spaceBetween: 30,
+      centeredSlides: true,
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false
+      },
+
+      // If we need pagination
+      pagination: {
+        el: ".swiper-pagination",
+      },
+
+      // Navigation arrows
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      on: {
+        autoplayTimeLeft(s, time, progress) {
+          progressCircle.style.setProperty("--progress", 1 - progress);
+          progressContent.textContent = `${Math.ceil(time / 1000)}s`;
+        }
+      }
+    });
+  </script>
+  </body>
+</html>
