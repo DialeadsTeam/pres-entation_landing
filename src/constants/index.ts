@@ -1,16 +1,50 @@
 const _DEFAULT = {
-  name: "VAY TIỀN",
-  expandedName: "VAY TIỀN ONLINE NHANH",
-  homePageLinkTitle: "Trang chủ",
+  name: "Payday Advance & Online Loans",
+  expandedName: "Payday Advance & Online Loans",
+  homePageLinkTitle: "Home",
+  contactsPageLinkTitle: "Contacts",
+  documentPageBackButton: "Back",
+
+  carouselItems: [
+    {
+      src: "/1.jpg",
+    },
+    {
+      src: "/2.jpg",
+    },
+    {
+      src: "/3.jpg",
+    },
+  ],
+
+  contacts: {
+    headline: "Contacts",
+    company: {
+      name: {
+        title: "Company name:",
+        name: "JA CONSTRUCTION AND ENGINEERING PRIVATE LIMITED",
+      },
+      phone: {
+        title: "Phone:",
+        number: "92-3312355025",
+      },
+      address: {
+        title: "Street address",
+        address:
+          "Lane 5-B, 309/8, Mazhar-ul-Qayyum Road Nearoulos Road, Lalazar colony Rawalpindi, Punjab 46000 Pakistan",
+      },
+    },
+  },
 
   hero: {
-    descriptionLineOne: "TÍ LỆ DUYỆT VAY CAO\NHẬN TIÊN NHANH TRONG VONG 5 PHÚT",
-    descriptionLineTwo: "VAY TIEN KHÔNG BI TỪ CHỐI"
+    descriptionLineOne: "GET FAST LOAN UP TO 5000$",
+    descriptionLineTwo: "GET MONEY FOR YOUR NEEDS",
   },
 
   footer: {
-    description: "VAY TIEN KHÔNG BI TỪ CHỐI"
-  }
-}
+    description: "GET FAST LOAN UP TO 5000$",
+    reserved: "All Rights Reserved.",
+  },
+};
 
 export default _DEFAULT;

@@ -1,45 +1,40 @@
 ---
 layout: "../layouts/Docs.astro"
-title: "Điều Khoản Cho Vay"
+title: "Terms & Conditions"
 ---
 
-# Điều Khoản Cho Vay
+**Terms & Conditions**  
 
-- Max. Tỷ lệ Phần trăm hàng năm (APR): 35,99%
-- Tối thiểu. Thời Gian Trả Nợ: 65 Ngày
-- Max. Thời Gian Trả Nợ: 3 Năm
-- Ngày đến hạn thanh toán: 90 ngày
+These terms and conditions applies to the Payday Advance & Online Loans app (hereby referred to as "Application") for mobile devices that was created by JA CONSTRUCTION AND ENGINEERING PRIVATE LIMITED (hereby referred to as "Service Provider") as a Free service.
 
-## Điều Khoản & Điều Kiện:
+Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
-Bằng cách tải xuống hoặc sử dụng ứng dụng, các điều khoản này sẽ tự động áp dụng cho bạn – do đó, bạn nên đảm bảo rằng mình đã đọc kỹ trước khi sử dụng ứng dụng. Bạn không được phép sao chép hoặc sửa đổi ứng dụng, bất kỳ phần nào của ứng dụng hoặc nhãn hiệu của chúng tôi dưới bất kỳ hình thức nào. Bạn không được phép cố gắng trích xuất mã nguồn của ứng dụng và bạn cũng không nên cố gắng dịch ứng dụng sang các ngôn ngữ khác hoặc tạo các phiên bản phái sinh. Bản thân ứng dụng và tất cả các nhãn hiệu, bản quyền, quyền cơ sở dữ liệu và các quyền sở hữu trí tuệ khác liên quan đến ứng dụng vẫn thuộc về RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED.
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
-RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED cam kết đảm bảo rằng ứng dụng này hữu ích và hiệu quả nhất có thể. Vì lý do đó, chúng tôi có quyền thực hiện các thay đổi đối với ứng dụng hoặc tính phí dịch vụ của ứng dụng đó bất cứ lúc nào và vì bất kỳ lý do gì. Chúng tôi sẽ không bao giờ tính phí cho ứng dụng hoặc dịch vụ của ứng dụng đó mà không thông báo rõ ràng cho bạn biết chính xác bạn đang trả tiền cho cái gì.
+The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
-Ứng dụng Vay Tiền Online Nhanh lưu trữ và xử lý dữ liệu cá nhân mà bạn đã cung cấp cho chúng tôi để cung cấp Dịch vụ của chúng tôi. Bạn có trách nhiệm giữ an toàn cho điện thoại và quyền truy cập vào ứng dụng của mình. Do đó, chúng tôi khuyên bạn không nên bẻ khóa hoặc root điện thoại của mình, đây là quá trình loại bỏ các hạn chế và giới hạn phần mềm do hệ điều hành chính thức của thiết bị của bạn áp đặt. Nó có thể khiến điện thoại của bạn dễ bị phần mềm độc hại/vi-rút/chương trình độc hại tấn công, xâm phạm các tính năng bảo mật của điện thoại và điều đó có thể có nghĩa là ứng dụng Vay Tiền Online Nhanh sẽ không hoạt động bình thường hoặc hoàn toàn không hoạt động.
+Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-Ứng dụng sử dụng các dịch vụ của bên thứ ba để khai báo Điều khoản và Điều kiện của họ.
+*   [One Signal](https://onesignal.com/tos)
 
-Liên kết đến Điều khoản và Điều kiện của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng:
-- Dịch vụ của Google Play
-- One Signal
+Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
-Bạn nên lưu ý rằng có một số việc nhất định mà RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED sẽ không chịu trách nhiệm. Một số chức năng nhất định của ứng dụng sẽ yêu cầu ứng dụng phải có kết nối internet đang hoạt động. Kết nối có thể là Wi-Fi hoặc do nhà cung cấp mạng di động của bạn cung cấp, nhưng RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không chịu trách nhiệm về việc ứng dụng không hoạt động với đầy đủ chức năng nếu bạn không có quyền truy cập Wi-Fi và bạn không có bất kỳ dữ liệu nào của mình trợ cấp còn lại.
+If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
 
-Nếu bạn đang sử dụng ứng dụng bên ngoài khu vực có Wi-Fi, bạn nên nhớ rằng các điều khoản trong thỏa thuận với nhà cung cấp mạng di động của bạn sẽ vẫn được áp dụng. Do đó, bạn có thể bị nhà cung cấp dịch vụ di động tính phí dữ liệu trong suốt thời gian kết nối khi truy cập ứng dụng hoặc các khoản phí khác của bên thứ ba. Khi sử dụng ứng dụng, bạn phải chịu trách nhiệm về mọi khoản phí như vậy, bao gồm cả phí chuyển vùng dữ liệu nếu bạn sử dụng ứng dụng bên ngoài lãnh thổ quê hương của mình (tức là khu vực hoặc quốc gia) mà không tắt chuyển vùng dữ liệu. Nếu bạn không phải là người thanh toán hóa đơn cho thiết bị mà bạn đang sử dụng ứng dụng, xin lưu ý rằng chúng tôi cho rằng bạn đã nhận được sự cho phép từ người thanh toán hóa đơn để sử dụng ứng dụng.
+Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
 
-Tương tự như vậy, RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không phải lúc nào cũng chịu trách nhiệm về cách bạn sử dụng ứng dụng, tức là bạn cần đảm bảo rằng thiết bị của mình luôn được sạc - nếu thiết bị hết pin và bạn không thể bật thiết bị để sử dụng Dịch vụ, RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không thể chấp nhận trách nhiệm.
+In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
-Về trách nhiệm của RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED đối với việc bạn sử dụng ứng dụng, khi bạn sử dụng ứng dụng, điều quan trọng cần lưu ý là mặc dù chúng tôi nỗ lực đảm bảo rằng ứng dụng luôn được cập nhật và chính xác nhưng chúng tôi vẫn dựa vào bên thứ ba để cung cấp thông tin cho chúng tôi để chúng tôi có thể cung cấp thông tin đó cho bạn. RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không chịu trách nhiệm pháp lý đối với bất kỳ tổn thất nào, trực tiếp hay gián tiếp mà bạn gặp phải do phụ thuộc hoàn toàn vào chức năng này của ứng dụng.
+The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-Tại một thời điểm nào đó, chúng tôi có thể muốn cập nhật ứng dụng. Ứng dụng hiện có sẵn trên iOS – các yêu cầu đối với hệ thống (và đối với bất kỳ hệ thống bổ sung nào mà chúng tôi quyết định mở rộng khả năng cung cấp ứng dụng) có thể thay đổi và bạn sẽ cần tải xuống các bản cập nhật nếu muốn tiếp tục sử dụng ứng dụng. RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED không hứa rằng sẽ luôn cập nhật ứng dụng sao cho phù hợp với bạn và/hoặc hoạt động với phiên bản iOS mà bạn đã cài đặt trên thiết bị của mình. Tuy nhiên, bạn hứa sẽ luôn chấp nhận các bản cập nhật của ứng dụng khi được cung cấp cho bạn. Chúng tôi cũng có thể muốn ngừng cung cấp ứng dụng và có thể chấm dứt việc sử dụng ứng dụng đó bất kỳ lúc nào mà không cần thông báo chấm dứt cho bạn. Trừ khi chúng tôi thông báo khác cho bạn, sau khi chấm dứt, (a) các quyền và giấy phép được cấp cho bạn theo các điều khoản này sẽ chấm dứt; (b) bạn phải ngừng sử dụng ứng dụng và (nếu cần) xóa ứng dụng đó khỏi thiết bị của mình.
+**Changes to These Terms and Conditions**
 
-## Thay đổi đối với Điều khoản và Điều kiện này
+The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-Đôi khi, chúng tôi có thể cập nhật Điều khoản và Điều kiện của mình. Vì vậy, bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Điều khoản và Điều kiện mới trên trang này.
+These terms and conditions are effective as of 2024-03-18
 
-Các điều khoản và điều kiện này có hiệu lực kể từ ngày 01-03-2025
+**Contact Us**
 
-## Liên hệ chúng tôi
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support@pdadolo.com.
 
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Điều khoản và Điều kiện của chúng tôi, đừng ngần ngại liên hệ với chúng tôi theo địa chỉ support@vaytiennha.com.
+* * *

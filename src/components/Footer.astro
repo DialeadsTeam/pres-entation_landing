@@ -22,6 +22,6 @@ const menu = posts.map(_ => ({link: _.url, text: _.frontmatter.title}))
                   </li>
                 ))}
       </ul>
-      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="/" class="hover:underline whitespace-pre-wrap"> {_DEFAULT.expandedName}</a>. All Rights Reserved.</span>
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="/" class="hover:underline whitespace-pre-wrap"> {_DEFAULT.expandedName}</a>. {_DEFAULT.footer.reserved}</span>
   </div>
 </footer>

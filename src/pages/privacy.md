@@ -1,65 +1,70 @@
 ---
 layout: "../layouts/Docs.astro"
-title: "Chính sách bảo mật"
+title: "Privacy Policy"
 ---
-# RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED Chính sách Quyền riêng tư
+**Privacy Policy**
 
-RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED đã xây dựng ứng dụng Vay Tiền Online Nhanh dưới dạng ứng dụng Miễn phí. DỊCH VỤ này được RANA AJMAL SHAIGAN PHARMACEUTICALS (PRIVATE) LIMITED cung cấp miễn phí và được thiết kế để sử dụng.
+This privacy policy applies to the Payday Advance & Online Loans app (hereby referred to as "Application") for mobile devices that was created by JA CONSTRUCTION AND ENGINEERING PRIVATE LIMITED (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của chúng tôi về việc thu thập, sử dụng và tiết lộ Thông tin cá nhân nếu có ai quyết định sử dụng Dịch vụ của chúng tôi.
+**Information Collection and Use**
 
-Nếu bạn chọn sử dụng Dịch vụ của chúng tôi thì bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này. Thông tin cá nhân mà chúng tôi thu thập được sử dụng để cung cấp và cải thiện Dịch vụ. Chúng tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai ngoại trừ những trường hợp được mô tả trong Chính sách quyền riêng tư này.
+The Application collects information when you download and use it. This information may include information such as
 
-Các điều khoản được sử dụng trong Chính sách quyền riêng tư này có cùng ý nghĩa như trong Điều khoản và Điều kiện của chúng tôi, có thể truy cập được tại Vay Tiền Online Nhanh trừ khi được quy định khác trong Chính sách quyền riêng tư này.
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-## Thu thập và sử dụng thông tin
+...and more.
 
-Để có trải nghiệm tốt hơn, khi sử dụng Dịch vụ của chúng tôi, chúng tôi có thể yêu cầu bạn cung cấp cho chúng tôi thông tin nhận dạng cá nhân nhất định. Thông tin mà chúng tôi yêu cầu sẽ được chúng tôi lưu giữ và sử dụng như được mô tả trong chính sách bảo mật này.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-Ứng dụng sử dụng các dịch vụ của bên thứ ba có thể thu thập thông tin dùng để nhận dạng bạn.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-Liên kết đến chính sách quyền riêng tư của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng:
-- Dịch vụ của Google Play
-- One Signal
+**Third Party Access**
 
-## Dữ liệu nhật ký
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Chúng tôi muốn thông báo cho bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của chúng tôi, trong trường hợp xảy ra lỗi trong ứng dụng, chúng tôi sẽ thu thập dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại của bạn có tên là Dữ liệu nhật ký. Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (“IP”) của thiết bị, tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng Dịch vụ của chúng tôi, ngày và giờ bạn sử dụng Dịch vụ và các số liệu thống kê khác.
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-## Bánh quy
+*   [One Signal](https://onesignal.com/privacy_policy)
 
-Cookie là các tệp có một lượng nhỏ dữ liệu thường được sử dụng làm mã định danh duy nhất ẩn danh. Chúng được gửi tới trình duyệt của bạn từ các trang web bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Dịch vụ này không sử dụng các “cookie” này một cách rõ ràng. Tuy nhiên, ứng dụng có thể sử dụng mã và thư viện của bên thứ ba sử dụng “cookie” để thu thập thông tin và cải thiện dịch vụ của họ. Bạn có tùy chọn chấp nhận hoặc từ chối các cookie này và biết khi nào cookie được gửi đến thiết bị của bạn. Nếu bạn chọn từ chối cookie của chúng tôi, bạn có thể không sử dụng được một số phần của Dịch vụ này.
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-## Các nhà cung cấp dịch vụ
+**Opt-Out Rights**
 
-Chúng tôi có thể tuyển dụng các công ty và cá nhân bên thứ ba vì những lý do sau:
-- Để tạo điều kiện thuận lợi cho Dịch vụ của chúng tôi;
-- Để cung cấp Dịch vụ thay mặt chúng tôi;
-- Để thực hiện các dịch vụ liên quan đến Dịch vụ; hoặc
-- Để hỗ trợ chúng tôi phân tích cách Dịch vụ của chúng tôi được sử dụng.
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-Chúng tôi muốn thông báo cho người dùng Dịch vụ này rằng các bên thứ ba này có quyền truy cập vào Thông tin cá nhân của họ. Lý do là để thay mặt chúng tôi thực hiện nhiệm vụ được giao. Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.
+**Data Retention Policy**
 
-## Bảo vệ
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at support@pdadolo.com and they will respond in a reasonable time.
 
-Chúng tôi đánh giá cao sự tin tưởng của bạn trong việc cung cấp cho chúng tôi Thông tin cá nhân của bạn, do đó chúng tôi đang cố gắng sử dụng các phương tiện được chấp nhận về mặt thương mại để bảo vệ thông tin đó. Nhưng hãy nhớ rằng không có phương thức truyền qua internet hoặc phương pháp lưu trữ điện tử nào an toàn và đáng tin cậy 100% và chúng tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.
+**Children**
 
-## Liên kết đến các trang web khác
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-Dịch vụ này có thể chứa các liên kết đến các trang web khác. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được dẫn đến trang web đó. Lưu ý rằng các trang web bên ngoài này không do chúng tôi điều hành. Do đó, chúng tôi thực sự khuyên bạn nên xem lại Chính sách quyền riêng tư của các trang web này. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc thông lệ của bất kỳ trang web hoặc dịch vụ bên thứ ba nào.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@pdadolo.com) so that they will be able to take the necessary actions.
 
-## Quyền riêng tư của trẻ em
+**Security**
 
-Các Dịch vụ này không đề cập đến bất kỳ ai dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin nhận dạng cá nhân từ trẻ em dưới 13 tuổi. Trong trường hợp chúng tôi phát hiện ra rằng một đứa trẻ dưới 13 tuổi đã cung cấp thông tin cá nhân cho chúng tôi, chúng tôi sẽ xóa ngay thông tin này khỏi máy chủ của mình. Nếu bạn là cha mẹ hoặc người giám hộ và bạn biết rằng con bạn đã cung cấp thông tin cá nhân cho chúng tôi, vui lòng liên hệ với chúng tôi để chúng tôi có thể thực hiện các hành động cần thiết.
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-## Những thay đổi đối với Chính sách quyền riêng tư này
+**Changes**
 
-Thỉnh thoảng chúng tôi có thể cập nhật Chính sách quyền riêng tư của mình. Vì vậy, bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách quyền riêng tư mới trên trang này.
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-Chính sách này có hiệu lực kể từ ngày 2025-03-01
+This privacy policy is effective as of 2024-03-18
 
-## Liên hệ chúng tôi
+**Your Consent**
 
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách quyền riêng tư của chúng tôi, đừng ngần ngại liên hệ với chúng tôi theo địa chỉ support@vaytiennha.com.
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@pdadolo.com.
+
+* * *
